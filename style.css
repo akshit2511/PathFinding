@@ -75,3 +75,12 @@ body{
     }
 }
 
+/* Footer */
+footer{
+    margin: 2px auto;
+    padding: 0 4px;
+    background-color: cornsilk;
+    border-radius: 3px;
+    font-size: 80%;
+}
+
